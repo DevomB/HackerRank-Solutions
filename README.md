@@ -11,7 +11,7 @@ These solutions are provided for educational and reference purposes only.
 Use them at your own risk.
 
 ## Contents:
-(List the folders or files organizing your solutions)
+As of right now I am only solving the problems in pyhton to maintain consistency.
 
 ## Contributions:
 
