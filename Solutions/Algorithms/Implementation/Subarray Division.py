@@ -1,3 +1,6 @@
 def birthday(s, d, m):
-    for i in s:
-        pass # Filler for code
+    numberMatch  = 0
+    for i in range(len(s) - m + 1):
+        if sum(s[i:i+m]) == d:
+            numberMatch += 1
+    return numberMatch
